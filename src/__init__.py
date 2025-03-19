@@ -1,0 +1,9 @@
+"""MCP server that captures TradingView chart images via Seleni"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
