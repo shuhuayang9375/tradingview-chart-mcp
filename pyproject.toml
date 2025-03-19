@@ -1,0 +1,5 @@
+[project]
+name = "tradingview-chart-mcp"
+version = "0.1.0"
+description = "MCP server that captures TradingView chart images via Selenium — supports any ticker/interval with browser pooling for concurrent performance"
+requires-python = ">=3.10"
